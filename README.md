@@ -1,16 +1,17 @@
-# date_picker
+# Flutter Devote
 
-A new Flutter project.
+A Flutter application featuring a modern DateTime picker. This project showcases how to implement a date and time selection feature using Flutter's CupertinoDatePicker.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Clean and modern UI
+- Date and time selection
+- Responsive design
+- Custom font integration using Google Fonts
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Durgajayasai1/flutter_devote.git
+   cd flutter_devote
